@@ -16,7 +16,7 @@ This project is a web-based application for a restaurant, featuring a frontend f
 - **Abhi verma**
   - Roll Number: 22015002366
 -**Abhay Tripathi**
-  - Roll Number :   
+  - Roll Number : 22015002364   
 
 ## Features
 
